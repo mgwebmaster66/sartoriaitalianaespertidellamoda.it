@@ -1,58 +1,14 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
-<url>
-<loc>https://www.sartoriaitalianaespertidellamoda.it/</loc>
-<lastmod>2026-03-21T16:32:59+00:00</lastmod>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>https://www.sartoriaitalianaespertidellamoda.it/home</loc>
-<lastmod>2026-03-21T16:32:59+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://www.sartoriaitalianaespertidellamoda.it/corsi-di-sartoria-e-modellismo_1</loc>
-<lastmod>2026-03-21T16:32:59+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://www.sartoriaitalianaespertidellamoda.it/corsi-di-sartoria-e-modellismo_1/corso-di-sartoria-disegna-taglia-e-cuci-una-gonna-su-misura</loc>
-<lastmod>2026-03-21T16:32:59+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://www.sartoriaitalianaespertidellamoda.it/corsi-di-sartoria-e-modellismo_1/corso-di-sartoria-come-realizzare-la-tasca-alla-francese</loc>
-<lastmod>2026-03-21T16:32:59+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://www.sartoriaitalianaespertidellamoda.it/sewing-course</loc>
-<lastmod>2026-03-21T16:32:59+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://www.sartoriaitalianaespertidellamoda.it/sewing-course/swing-course-sew-a-custom-fit-straight-skirt-from-scratch</loc>
-<lastmod>2026-03-21T16:32:59+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://www.sartoriaitalianaespertidellamoda.it/n%C3%A4hkurs</loc>
-<lastmod>2026-03-21T16:32:59+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://www.sartoriaitalianaespertidellamoda.it/n%C3%A4hkurs/einen-geraden-rock-nach-ma%C3%9F-n%C3%A4hen</loc>
-<lastmod>2026-03-21T16:32:59+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://www.sartoriaitalianaespertidellamoda.it/cursos-de-sastrer%C3%ADa-y-costura</loc>
-<lastmod>2026-03-21T16:32:59+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://www.sartoriaitalianaespertidellamoda.it/cursos-de-sastrer%C3%ADa-y-costura/curso-de-sastrer%C3%ADa-c%C3%B3mo-confeccionar-una-falda-recta-a-medida</loc>
-<lastmod>2026-03-21T16:32:59+00:00</lastmod>
-<priority>0.80</priority>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.sartoriaitalianaespertidellamoda.it/</loc></url>
+  <url><loc>https://www.sartoriaitalianaespertidellamoda.it/gina-chiriac/</loc></url>
+  <url><loc>https://www.sartoriaitalianaespertidellamoda.it/contatti/</loc></url>
+  <url><loc>https://www.sartoriaitalianaespertidellamoda.it/corsi/gonna-base/</loc></url>
+  <url><loc>https://www.sartoriaitalianaespertidellamoda.it/courses/straight-skirt/</loc></url>
+  <url><loc>https://www.sartoriaitalianaespertidellamoda.it/kurse/grundrock/</loc></url>
+  <url><loc>https://www.sartoriaitalianaespertidellamoda.it/cursos/falda-recta/</loc></url>
+  <url><loc>https://www.sartoriaitalianaespertidellamoda.it/cursos/saia-reta/</loc></url>
+  <url><loc>https://www.sartoriaitalianaespertidellamoda.it/corsi/tasca-alla-francese/</loc></url>
+  <url><loc>https://www.sartoriaitalianaespertidellamoda.it/courses/french-pocket/</loc></url>
+  <url><loc>https://www.sartoriaitalianaespertidellamoda.it/cursos/bolso-frances/</loc></url>
 </urlset>

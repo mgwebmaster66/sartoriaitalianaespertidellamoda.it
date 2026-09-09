@@ -1,0 +1,50 @@
+SARTORIA ITALIANA “ESPERTI DELLA MODA”
+Pacchetto pronto per il dominio definitivo
+https://www.sartoriaitalianaespertidellamoda.it
+
+CONTENUTO
+- 13 pagine HTML complete
+- immagini, logo, CSS e JavaScript
+- sitemap.xml e robots.txt
+- dati strutturati SEO e GEO
+- collegamenti multilingua hreflang
+- collegamenti Udemy con referral code
+- pagine Contatti, Privacy Policy e Cookie Policy
+
+PUBBLICAZIONE
+Caricare nella directory principale pubblica del servizio di hosting tutto
+il CONTENUTO di questa cartella, mantenendo invariati nomi e sottocartelle.
+Il file index.html deve trovarsi alla radice pubblica del dominio.
+
+DOMINIO E HTTPS
+Il pacchetto usa già come indirizzo ufficiale:
+https://www.sartoriaitalianaespertidellamoda.it
+
+Configurare sia sartoriaitalianaespertidellamoda.it sia il sottodominio www,
+con reindirizzamento permanente verso la versione HTTPS con www.
+
+PRIMA DELL'INDICIZZAZIONE
+1. verificare che tutte le pagine si aprano correttamente;
+2. verificare i pulsanti Udemy e l'ingrandimento delle infografiche;
+3. inviare /sitemap.xml a Google Search Console;
+4. aggiornare Privacy e Cookie Policy se verranno aggiunti Analytics,
+   pixel pubblicitari, moduli o video incorporati.
+
+WORDPRESS
+Questo è un sito HTML statico. WordPress non lo importa automaticamente come
+sito completo: richiederebbe la conversione in un tema o la ricostruzione delle
+pagine. Per questo progetto WordPress non è necessario.
+
+GOOGLE SITES
+Google Sites non importa un sito HTML completo e non conserverebbe fedelmente
+struttura, dati SEO, hreflang e funzionalità. Non è la soluzione consigliata.
+
+CONTATTI
+Gina Chiriac
+Sartoria Italiana “Esperti della Moda”
+Perugia 06127, Italia
+espertidellamoda@gmail.com
++39 389 630 7776
+
+Sito web realizzato da MG Webmaster
+https://www.mgwebmaster.it
