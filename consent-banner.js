@@ -76,6 +76,7 @@
     var banner = document.createElement('section');
     banner.id = 'cookie-consent-banner';
     banner.className = 'cookie-banner';
+    banner.hidden = true;
     banner.setAttribute('role', 'dialog');
     banner.setAttribute('aria-labelledby', 'cookie-banner-title');
     banner.innerHTML = '<div class="cookie-banner-copy"><h2 id="cookie-banner-title">' + copy.title + '</h2><p>' + copy.text + ' <a href="/cookie-policy/">' + copy.more + '</a>.</p></div><div class="cookie-actions"><button type="button" class="cookie-btn cookie-btn-secondary" data-cookie="reject">' + copy.reject + '</button><button type="button" class="cookie-btn cookie-btn-secondary" data-cookie="custom">' + copy.custom + '</button><button type="button" class="cookie-btn cookie-btn-primary" data-cookie="accept">' + copy.accept + '</button></div>';
