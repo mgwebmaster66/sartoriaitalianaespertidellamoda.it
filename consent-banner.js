@@ -3,7 +3,6 @@
 
   var STORAGE_KEY = 'sartoria_cookie_consent_v1';
   var GA_ID = 'G-YYXB1P6WK6';
-  var analyticsLoaded = false;
   var lang = (document.documentElement.lang || 'it').toLowerCase();
   var code = lang.startsWith('de') ? 'de' : lang.startsWith('es') ? 'es' : lang.startsWith('pt') ? 'pt' : lang.startsWith('en') ? 'en' : 'it';
   var copy = {
@@ -26,17 +25,10 @@
 
   function loadAnalytics() {
     window['ga-disable-' + GA_ID] = false;
-    window.gtag('consent', 'update', {analytics_storage:'granted'});
-    if (analyticsLoaded) return;
-    analyticsLoaded = true;
-    var script = document.createElement('script');
-    script.async = true;
-    script.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(GA_ID);
-    document.head.appendChild(script);
-    window.gtag('js', new Date());
-    window.gtag('config', GA_ID, {anonymize_ip:true});
+    window.gtag('consent', 'update', {
+      analytics_storage: 'granted'
+    });
   }
-
   function disableAnalytics() {
     window.gtag('consent', 'update', {analytics_storage:'denied'});
     window['ga-disable-' + GA_ID] = true;
