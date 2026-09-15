@@ -85,3 +85,18 @@
     grid-template-columns: 1fr;
   }
 }
+
+.free-video-lessons{background:linear-gradient(180deg,#f8fafb 0%,#eef5f3 100%)}
+.video-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px;margin-top:30px}
+.video-card{background:#fff;border:1px solid rgba(8,69,62,.13);border-radius:20px;overflow:hidden;box-shadow:0 12px 30px rgba(4,31,38,.08);display:flex;flex-direction:column}
+.video-thumb{position:relative;display:block;aspect-ratio:16/9;overflow:hidden;background:#082d38}
+.video-thumb img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .35s ease}
+.video-thumb:hover img,.video-thumb:focus img{transform:scale(1.035)}
+.video-play{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);display:grid;place-items:center;width:58px;height:58px;border-radius:50%;background:rgba(153,13,67,.94);color:#fff;font-size:22px;padding-left:3px;box-shadow:0 8px 24px rgba(0,0,0,.28)}
+.video-card-body{padding:20px;display:flex;flex-direction:column;gap:10px;flex:1}
+.video-number{font-size:.74rem;font-weight:800;letter-spacing:.12em;color:#08715e}
+.video-card h3{font-size:1.08rem;line-height:1.35;margin:0}
+.video-card h3 a{color:#082d38;text-decoration:none}
+.video-card .text-link{margin-top:auto}
+@media(max-width:900px){.video-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:620px){.video-grid{grid-template-columns:1fr}.video-card-body{padding:18px}}
