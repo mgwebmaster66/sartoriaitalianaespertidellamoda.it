@@ -100,3 +100,8 @@
 .video-card .text-link{margin-top:auto}
 @media(max-width:900px){.video-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:620px){.video-grid{grid-template-columns:1fr}.video-card-body{padding:18px}}
+
+.directory-teacher-section{background:linear-gradient(135deg,#f8fafb 0%,#f2ece8 100%)}
+.directory-teacher-grid{align-items:center}
+.directory-teacher-photo{display:block;width:min(100%,360px);max-height:590px;object-fit:cover;object-position:top center;margin-inline:auto;border-radius:24px;box-shadow:0 18px 45px rgba(4,31,38,.16)}
+@media(max-width:760px){.directory-teacher-photo{width:min(82vw,340px);max-height:520px}}
